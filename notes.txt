@@ -1,0 +1,39 @@
+https://www.reddit.com/r/investing/comments/lcchwr/daily_advice_thread_all_basic_help_or_advice/
+
+
+Some fundamentals based on the financial statements:
+
+For the last few years, the company had a good cash-realization ratio (measures how close a 
+company’s net income is to being realized in cash). A ratio above 1.0 is good, which MEI had 
+for several years.
+
+Return on equity was a healthy 16% and was more or less similar for the last few years as well.
+
+Debt to equity was under 1.0 as well as the total debt ratio. The company also had good cash 
+reserves in the event of a downturn, which was good considering we’re still dealing with the 
+covid-19 pandemic.
+
+Net profit margins were good hovering around 10%, the net worth ratio had been growing, and 
+there were no red flags such as rapidly declining sales or earnings.
+
+The P/E ratio was around 10 when historically it had been anywhere from 12 to 26. The price-to 
+book ratio was also around 1.40.
+
+More importantly, its earnings to net tangible assets ratio was 40% and its price to tangible 
+book value ratio was about 3.30. For the last couple years, it had been between 3.50 and 6.00.
+
+Determining an appropriate value:
+
+So, I knew the company was fundamentally sound or at least had been stable during the past 
+several years. Now I just had to determine a reasonable estimate of what the company was worth. 
+If you figure out the discounted owner earnings from the last several years, you get a present 
+value estimate of about $80-90 a share. (I assumed a 5-year growth rate of 8%, a discount rate 
+of 5%, and a good margin of safety).
+
+For those who aren’t familiar with owner earnings, you could also do a discounted free cash 
+flow analysis and get similar results, but I recommend you learn about both and how to calculate 
+them. Now, my own estimate of $80-90 a share could still be way off, but I’m just looking for an 
+indication as to whether the stock could be undervalued. If the stock price were $27 and my 
+estimate had been $30, I would have just moved on to another stock. In this case, I knew it had 
+potential. Once I considered the present economic environment and other items, I settled on a 
+present value estimate of about $40 a share.
